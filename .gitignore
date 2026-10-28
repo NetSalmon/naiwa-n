@@ -1,0 +1,15 @@
+/cmake-build-*/
+/.idea/
+/.codex/
+/.agents/
+/.aws/
+/build/
+/compile_commands.json
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+/Module.symvers
+/modules.order
+/.tmp_versions/
